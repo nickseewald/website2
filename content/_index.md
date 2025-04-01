@@ -29,17 +29,15 @@ sections:
             brightness: 1.0
           size: cover
           position: center
-          parallax: false
+          parallax: true
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I am an expert in causal inference with complex repeated measures data, using both experimental and non-experimental approaches. My work is motivated by problems across a wide array of applications, including oncology, substance use, health policy, and chronic disease, and spans the entire investigative process from formulating a research question through study design and data analysis. 
         
-        Please reach out to collaborate 😃
+        I am deeply interested in building tools to address important statistical issues in a way that is accessible and understandable to applied researchers. 
     design:
       columns: '1'
   - block: collection
